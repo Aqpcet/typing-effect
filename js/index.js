@@ -44,7 +44,7 @@ var height = window.innerHeight;
 var textSize = 0;
 var textCenter = 0;
 var letters = [];
-var prompt = ['s', 't', 'a', 'r', 't', ' ', 't', 'y', 'p', 'i', 'n', 'g'];
+var prompt = ['斐', '斐', '么', '么', '哒', ' ', '♡', '♡', '♡', '♡', '♡', '♡'];
 var runPrompt = true;
 
 var resizePage = function resizePage() {
